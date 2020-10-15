@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/WebScraping-Docker/.vs/WebScraping-Docker
+/WebScraping-Docker/bin/Debug/netcoreapp3.1
+/WebScraping-Frontend/.vs
+/WebScraping-Docker/obj/Debug/netcoreapp3.1
+/WebScraping-Docker/obj/Release/netcoreapp3.1
+/WebScraping-Docker/obj
